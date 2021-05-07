@@ -1,1 +1,1 @@
-# hackerrank-Python-Solution-
+# Hackerrank_Python_exercise_Solution-
