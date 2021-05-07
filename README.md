@@ -1,2 +1,1 @@
-# hackerank-Python-Solution-
-if-else code
+# hackerrank-Python-Solution-
